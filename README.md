@@ -5,7 +5,7 @@ Este repositório foi montado como portifólio para um dos participantes do proj
 
 COMANDOS:
 - Movimentação no menu: Setinhas e Espaço 
--Comprar e Vender Torres: Clique esquerdos e direito do mouse 
+- Comprar e Vender Torres: Clique esquerdos e direito do mouse 
 
 
 # Introdução
