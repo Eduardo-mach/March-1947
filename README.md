@@ -3,6 +3,10 @@ Este repositório foi montado como portifólio para um dos participantes do proj
 
 <img src="" alt="Imagem da tela inicial do jogo" width=300px>
 
+COMANDOS:
+- Movimentação no menu: Setinhas e Espaço 
+-Comprar e Vender Torres: Clique esquerdos e direito do mouse 
+
 
 # Introdução
 Este projeto foi realizado para a SEMANA TÉCNICA 2022 do colégio Centro Estadual de Educação Profissional de Ponta Grossa, por toda turma 2ºA Informática. O projeto se trata de um Tower Defense com o tema de guerra fria.
