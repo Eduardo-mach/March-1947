@@ -1,7 +1,15 @@
 # March-1947
 Este repositório foi montado como portifólio para um dos participantes do projeto, **Eduardo**, com o intuito de demonstrar seu trabalho desempenhado na parte de **Programação.**
 
-<img src="" alt="Imagem da tela inicial do jogo" width=300px>
+
+<div align="center">
+ <img src="sources/menu.png" alt="Imagem da tela inicial do jogo" width=45%>
+ <img src="sources/selecao-menu.png" alt="Imagem de seleção de fases" width=45%>
+</div>
+<div align="center">
+ <img src="sources/fase1.png" alt="Gameplay do mapa 1" width=45%>
+ <img src="sources/fase2.png" alt="Gameplay do mapa 2" width=45%>
+</div>
 
 COMANDOS:
 - Movimentação no menu: Setinhas e Espaço (Selecionar)
