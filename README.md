@@ -4,8 +4,9 @@ Este repositório foi montado como portifólio para um dos participantes do proj
 <img src="" alt="Imagem da tela inicial do jogo" width=300px>
 
 COMANDOS:
-- Movimentação no menu: Setinhas e Espaço 
-- Comprar e Vender Torres: Clique esquerdos e direito do mouse 
+- Movimentação no menu: Setinhas e Espaço (Selecionar)
+- Comprar e Vender Torres: Clique Esquerdo do Mouse e Clique Direito do Mouse, respectivamente
+- Upgrade: CTRL Esquerdo e Clique Direito do Mouse no ícone, para sair do modo upgrade pressione ESC 
 
 
 # Introdução
