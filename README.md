@@ -1,4 +1,7 @@
-# March-1947
+<div align="center">
+ <h1>March-1947</h1>
+  <img src="sources/menu.gif" alt="GIF navegando pelo menu"width=50%>
+</div>
 Este repositório foi montado como portifólio para um dos participantes do projeto, **Eduardo**, com o intuito de demonstrar seu trabalho desempenhado na parte de **Programação.**
 
 
